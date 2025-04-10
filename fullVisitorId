@@ -1,0 +1,4 @@
+#standardSQL
+SELECT
+fullVisitorId
+FROM `data-to-insights.ecommerce.rev_transactions`
