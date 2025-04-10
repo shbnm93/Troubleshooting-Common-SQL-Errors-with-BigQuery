@@ -1,0 +1,5 @@
+#standardSQL
+SELECT
+  fullVisitorId
+  , hits_page_pageTitle
+FROM `data-to-insights.ecommerce.rev_transactions` LIMIT 1000
