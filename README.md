@@ -26,3 +26,4 @@ Code Link:
 https://github.com/shbnm93/Troubleshooting-Common-SQL-Errors-with-BigQuery
 
 Video Link:
+https://youtu.be/EUg63g4gxRA?si=l3NaWPtfBUQJMSUK
